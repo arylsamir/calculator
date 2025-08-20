@@ -1,7 +1,7 @@
 # Basic Calculator
 
-This is one of my **early projects** — a simple calculator I built around **1.5 years ago** when I was starting to learn **web development**.  
-It uses **HTML, CSS, and JavaScript** with a clean **glassy UI design** and a modern gradient background.
+This is one of my **early projects** — a simple calculator I built around **1.5 years ago** when I was learning **web development**.  
+It used **HTML, CSS, and JavaScript** with a clean **glassy UI design** and a modern gradient background.
 
 ## ✨ Features
 - Basic arithmetic operations (+, −, ×, ÷, %)
